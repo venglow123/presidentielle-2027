@@ -9,3 +9,5 @@ Ce wiki a pour but de rassembler, de manière **sourcée** et **neutre**, des in
 - Parcourez la [liste des sujets](sujets/index.md).
 - Consultez l'[exemple de page](sujets/exemple.md) pour voir la structure attendue.
 - Vous souhaitez participer ? Lisez le [guide de contribution](contribuer.md).
+
+Test
